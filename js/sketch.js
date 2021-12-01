@@ -16,7 +16,7 @@ function draw() {
     
     if(paintColour == 'pink'){
         fill('rgb(255,192,203)');
-    } else if(paintcolour == 'green'){
+    } else if(paintColour == 'green'){
         fill('rgb(0,255,0)');
     } else if(paintColour == 'blue'){
         fill('rgb(0,0,255)');
